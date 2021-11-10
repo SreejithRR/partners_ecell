@@ -145,7 +145,7 @@ word-spacing: 3rem;
 }
 
 .container span{
-background-color: #620DF6;;
+/* background-color: #620DF6;; */
     text-transform: uppercase;
     display: block;
 }
